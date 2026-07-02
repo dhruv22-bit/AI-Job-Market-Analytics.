@@ -122,11 +122,15 @@ Business Insights
 # ✨ Business Recommendations.
 
 - ✔ Job seekers should prioritize learning SQL, Python, Power BI, and cloud platforms such as Azure or AWS to improve employability.
+  
 - ✔ Professionals aiming for higher salaries should focus on developing AI, machine learning, and cloud computing expertise.
+  
 - ✔ Organizations should invest in upskilling programs to bridge the growing demand for AI and data analytics talent.
+  
 - ✔ Companies can improve recruitment outcomes by offering flexible work arrangements, as Hybrid and Remote opportunities continue to attract candidates.
+
 - ✔ Regular analysis of hiring trends and skill demand can help businesses align workforce planning with evolving market requirements and remain competitive in talent
-  acquisition.
+     acquisition.
 
 
 # 📊 SQL Analysis
